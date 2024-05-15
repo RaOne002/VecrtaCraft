@@ -1,17 +1,17 @@
-### VectraCraft
+# VectraCraft
 
 <!-- Open VectraCraft with [https://vecrta-craft.vercel.app/](https://vecrta-craft.vercel.app/) -->
 
 ## Unleash Your Creativity
 VectraCraft is a powerful web application designed to provide an intuitive and collaborative environment for creating and sharing design ideas. Inspired by Figma, VectraCraft offers a seamless user experience with real-time collaboration features, making it an ideal tool for design teams and creative individuals.
 
-### Tech Stack
-# NextJS: Ensures a smooth and efficient web application.
-# Liveblocks: Powers real-time collaboration features.
-# TypeScript: Enhances code maintainability and scalability.
-# TailWind: Facilitates responsive and visually appealing UI design.
-# ESLint: Ensures code quality and adherence to coding standards.
-# FabricJs: Enables powerful and customizable canvas interactions.
+# Tech Stack
+## NextJS: Ensures a smooth and efficient web application.
+## Liveblocks: Powers real-time collaboration features.
+## TypeScript: Enhances code maintainability and scalability.
+## TailWind: Facilitates responsive and visually appealing UI design.
+## ESLint: Ensures code quality and adherence to coding standards.
+## FabricJs: Enables powerful and customizable canvas interactions.
 
 
 ## Features
