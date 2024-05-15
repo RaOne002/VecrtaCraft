@@ -25,15 +25,24 @@ Active Users Display: View who is currently active in the workspace.
 
 ## Scope of Feature Improvements
 Authentication and Sign-in: Secure user data and provide personalized experiences.
+
 Room Management: Enable users to create and manage specific rooms, fostering organization and ownership of projects.
+
 Print Chat Functionality: Print chat conversations to facilitate documentation and task tracking.
+
 Access Request Mechanism: Allow users to request access to specific chat rooms, ensuring controlled collaboration and privacy.
-Uses
-Design Collaboration: Seamlessly collaborate on design projects and iterate in real-time.
+
+# Uses
+
+Design Collaboration: Seamlessly collaborate on design projects and iterate in real time.
+
 Brainstorming Sessions: Conduct brainstorming sessions where ideas can be quickly sketched, shared, and refined.
+
 Prototype Development: Streamline the process of prototyping and iterating on product designs.
+
 Remote Work: Enable remote teams to work together as if they were in the same room, breaking down geographical barriers.
 Installation
+
 To get started with VectraCraft, follow these steps:
 
 Clone the repository:
