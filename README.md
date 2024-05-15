@@ -62,6 +62,6 @@ Open a pull request
 
 # Contact
 If you have any questions or suggestions, please feel free to reach out to us.
-# subhranilmondal2@gmail.com
+## subhranilmondal2@gmail.com
 
 ## Thank you for using VectraCraft! Let your ideas run wild.
