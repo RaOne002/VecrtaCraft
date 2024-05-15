@@ -36,7 +36,7 @@ To get started with VectraCraft, follow these steps:
 
 Clone the repository:
 
-git clone [Clone It](https://github.com/yourusername/vectracraft.git)
+git clone :- https://github.com/yourusername/vectracraft.git
 
 Navigate to the project directory:
 cd vectracraft
