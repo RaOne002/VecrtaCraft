@@ -47,21 +47,21 @@ npm install
 Start the development server:
 npm run dev
 
-<<<<<<< HEAD
+
 ## Contributing
 We welcome contributions to VectraCraft! If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 =======
-Open [https://vecrta-craft.vercel.app/](https://vecrta-craft.vercel.app/) with your browser to see the result.
->>>>>>> f7db23b40d75d29ad9fd76cd262a7f4786dd8f64
+<!-- Open [https://vecrta-craft.vercel.app/](https://vecrta-craft.vercel.app/) with your browser to see the result. -->
+
 
 Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
+Create your feature branch:- git checkout -b feature/AmazingFeature
+Commit your changes:- git commit -m 'Add some AmazingFeature'
+Push to the branch:- git push origin feature/AmazingFeature
 Open a pull request
 
 # Contact
 If you have any questions or suggestions, please feel free to reach out to us.
-[Email](subhranilmondal2@gmail.com)
+# subhranilmondal2@gmail.com
 
 ## Thank you for using VectraCraft! Let your ideas run wild.
